@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/website/static/css/main.5de897d8.css",
+    "main.js": "/website/static/js/main.87de4f71.js",
+    "static/media/backlights.jpg": "/website/static/media/backlights.31dc8058a5eab37d9ec7.jpg",
+    "static/media/github_neon.png": "/website/static/media/github_neon.df82d9a19c3ec47b5d89.png",
+    "static/media/linkedin_neon.png": "/website/static/media/linkedin_neon.0ea44f0715a56cba1fe7.png",
+    "index.html": "/website/index.html",
+    "main.5de897d8.css.map": "/website/static/css/main.5de897d8.css.map",
+    "main.87de4f71.js.map": "/website/static/js/main.87de4f71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5de897d8.css",
+    "static/js/main.87de4f71.js"
+  ]
+}
