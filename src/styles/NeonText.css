@@ -1,8 +1,8 @@
 .neonTextNav {
-    color: #fff;
+    color: #ff0000;
     text-shadow:
-      0 0 7px #00c3ff,
-      0 0 10px #fff,
+      0 0 7px #00b7ff,
+      0 0 10px #000000,
       0 0 21px #fff,
       0 0 42px rgb(0, 174, 255),
       0 0 82px rgb(0, 174, 255),
@@ -33,6 +33,6 @@
   }
   
   .neonTextNav:hover {
-    color: #05ff97;  /* Neon green color on hover */
+    color: #69d5ff;  /* Neon green color on hover */
     text-shadow: 0 0 10px #0099ff, 0 0 20px #0066ff; /* Neon glow effect */
   }

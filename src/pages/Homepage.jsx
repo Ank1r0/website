@@ -1,7 +1,9 @@
 import React, { useEffect } from 'react';
 import NavBar from '../components/NavBar';
+import Footer from '../components/Footer';
 import background from "../img/backlights.jpg";
 import '../styles/NeonText.css'
+
 
 const Homepage = () => {
   // UseEffect to reset global styles for <html> and <body>
@@ -75,9 +77,10 @@ const Homepage = () => {
           erat hendrerit volutpat. Proin ullamcorper nisl eu pulvinar sagittis. Nullam tellus velit, fermentum 
           id felis et, sagittis suscipit nisl. Etiam fringilla diam a magna pellentesque, a eu a ipsum.
         </p>
+        
       </div>
 
-      
+      <Footer/>
     </div>
   );
 };
